@@ -1,0 +1,15 @@
+.chart {
+  margin: 20px;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 8px 1px rgba(220, 232, 255, 0.54);
+  box-shadow: 0px 0px 8px 1px rgba(220, 232, 255, 0.54);
+}
+
+.chart:hover {
+  -webkit-box-shadow: 0px 0px 15px 3px rgba(220, 232, 255, 0.54);
+  box-shadow: 0px 0px 15px 3px rgba(220, 232, 255, 0.54);
+}
+
+.chartTitle {
+  margin-bottom: 20px;
+}
